@@ -16,8 +16,3 @@ site:
           draft: true
           content:
             directory: ./Legact
-    - type: section-group
-      key: section-group-1
-      title: "11"
-      draft: true
-      children: []
