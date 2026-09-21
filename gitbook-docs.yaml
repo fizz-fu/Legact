@@ -2,20 +2,6 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Legact Docs
   structure:
-    - type: section
-      key: section-2
-      title: Legact
-      path: legact
-      default: true
-      children:
-        - type: space
-          key: space-2
-          title: Legact
-          path: legact
-          default: true
-          draft: true
-          content:
-            directory: ./Legact
     - type: section-group
       key: section-group-1
       title: Legact
@@ -25,6 +11,7 @@ site:
           key: section-1
           title: Untitled
           path: untitled
+          default: true
           children:
             - type: space
               key: space-1
