@@ -9,15 +9,15 @@ site:
       children:
         - type: section
           key: section-1
-          title: Untitled
-          path: untitled
+          title: RPPS200
+          path: rpps200
           default: true
           children:
             - type: space
               key: space-1
-              title: Untitled
-              path: untitled
+              title: RPPS200
+              path: rpps200
               default: true
               draft: true
               content:
-                directory: ./untitled
+                directory: ./rpps200
