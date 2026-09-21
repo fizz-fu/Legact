@@ -22,3 +22,4 @@ site:
               draft: true
               content:
                 directory: ./rpps200
+                language: zh
