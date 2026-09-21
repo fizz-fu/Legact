@@ -1,4 +1,4 @@
-# RPPS200规格书
+# RPPS200用户手册
 
        [www.film-sensor.com](https://www.film-sensor.com)
 
