@@ -11,6 +11,7 @@ site:
           key: section-1
           title: RPPS200
           path: rpps200
+          description: ""
           default: true
           children:
             - type: space
