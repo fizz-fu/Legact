@@ -1,6 +1,6 @@
 # RPPS200规格书
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 <h2 align="center">RPPS-200<br>用户手册</h2>
 
@@ -20,7 +20,7 @@ LEGACT RPPS-200测试软件版本：V1.0
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 <h2 align="center">目录</h2>
 
@@ -43,7 +43,7 @@ LEGACT RPPS-200测试软件版本：V1.0
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 <h3 align="center">修改记录</h3>
 
@@ -56,7 +56,7 @@ LEGACT RPPS-200测试软件版本：V1.0
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 ### 1. 产品简介
 
@@ -78,7 +78,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 ### 3. 产品规格
 
@@ -94,7 +94,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 #### 3.2 传感器结构尺寸图
 
@@ -116,7 +116,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 ### 4. 通信协议
 
@@ -147,7 +147,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 ### 5. 产品使用步骤
 
@@ -168,7 +168,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 ### 6. 软件连接
 
@@ -190,7 +190,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 (1) 点击Connect连接：
 
@@ -208,7 +208,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 ### 7. 上位机使用说明
 
@@ -228,7 +228,7 @@ RPPS-200是基于FS-ARR-10X20-P1.5薄膜压力分布传感器的压力感知系�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 (3)右上侧功能区说明；
 
@@ -252,7 +252,7 @@ JSON：记录时间戳、量程参数、总力、COP、Blob 数量、校准状�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 * 保存结束，数据导出。
 
@@ -281,7 +281,7 @@ JSON：记录时间戳、量程参数、总力、COP、Blob 数量、校准状�
 
 ***
 
-&#x20;       [www.film-sensor.com](https://www.film-sensor.com)
+       [www.film-sensor.com](https://www.film-sensor.com)
 
 (2)可检查转接模块与采集模块之间的连线是否松动，或者是否接反，其中正确的接法是CH340的TX连接采集模块的RXD，CH340的RX连接采集模块的TXD，5V接5V，GND接GND。\
 (3)检查整套模组的供电电压是否为5V。
@@ -294,11 +294,7 @@ JSON：记录时间戳、量程参数、总力、COP、Blob 数量、校准状�
 
 检查传感器是否接反，本产品中与传感器相接的FPC使用的是下接翻盖型，请保证传感器裸露引脚向下接入FPC，并检查是否接入太浅或接歪。
 
-5.为什么设备
-
-
-
-
+**5.为什么设备EDG大师傅噶地方噶搜嘎发最广泛的噶地方嘎嘎定置摆放VB这是徐博士代发给不哈**
 
 ### 10、更多帮助
 
